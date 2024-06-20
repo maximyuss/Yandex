@@ -1,5 +1,5 @@
 # https://contest.yandex.ru/contest/59539/problems/D/
-# 5-1d
+# 5-1D
 
 #include <iostream>
 #include <string>
