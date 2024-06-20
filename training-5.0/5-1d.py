@@ -18,8 +18,8 @@ for i in range(1, 10):
                 figure = 1
             for shift in range(4):
                 tmpI, tmpJ = i + di[figure][shift], j + dj[figure][shift]
-                while board[tmpI][tmpJ] == '*' or board[tmpI][tmpJ] == ".":
-                    board[tmpI][tmpJ] = "."
+                while board[tmpI][tmpJ] == '*' or board[tmpI][tmpJ] == '.':
+                    board[tmpI][tmpJ] = '.'
                     tmpI += di[figure][shift]
                     tmpJ += dj[figure][shift]
 res = 0
