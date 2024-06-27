@@ -7,3 +7,4 @@
 | 1C | <a href="https://contest.yandex.ru/contest/59539/problems/C/">Форматирование файла</a> | <a href="/training-5.0/5-1c.py">Python</a> |
 | 1D | <a href="https://contest.yandex.ru/contest/59539/problems/D/">Слоны и ладьи</a> | <a href="/training-5.0/5-1d.cpp">C++</a> <a href="/training-5.0/5-1d.py">Python</a> |
 | 1E | <a href="https://contest.yandex.ru/contest/59539/problems/E/">Прибыльный стартап</a> | <a href="/training-5.0/5-1e.py">Python</a> |
+| 1F | <a href="https://contest.yandex.ru/contest/59539/problems/F/">Миша и математика</a> | <a href="/training-5.0/5-1f.py">Python</a> |
