@@ -1,5 +1,5 @@
 # https://contest.yandex.ru/contest/59539/problems/G/
-# Solution using simulation and brute force
+# This is the second version, based on game simulation and a complete search of options. Slow, redundant, but understandable.
 def model(limit, my_units, enemy_hp, enemy_inc):
     steps = 0
     enemy_units = 0
