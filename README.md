@@ -10,3 +10,4 @@
 | 1F | <a href="https://contest.yandex.ru/contest/59539/problems/F/">Миша и математика</a> | <a href="/training-5.0/5-1f.py">Python</a> |
 | 1F | <a href="https://contest.yandex.ru/contest/59539/problems/G/">Разрушить казарму</a> | <a href="/training-5.0/5-1g.cpp">C++</a> <a href="/training-5.0/5-1g.py">Python</a> |
 | 1F | <a href="https://contest.yandex.ru/contest/59539/problems/H/">Забег по стадиону</a> | <a href="/training-5.0/5-1h.cpp">C++</a> <a href="/training-5.0/5-1h.py">Python</a> |
+| 1I | <a href="https://contest.yandex.ru/contest/59539/problems/I/">Расписание</a> | <a href="/training-5.0/5-1i.cpp">C++</a> |
