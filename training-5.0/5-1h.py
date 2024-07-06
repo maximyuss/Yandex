@@ -1,5 +1,5 @@
 # https://contest.yandex.ru/contest/59539/problems/H/
-# Second version, clear solution
+# The second version, clear solution
 
 l, x1, v1, x2, v2 = map(int, input().split())
 res = 10 ** 10
