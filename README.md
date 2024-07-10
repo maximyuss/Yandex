@@ -12,3 +12,8 @@
 | 1F | <a href="https://contest.yandex.ru/contest/59539/problems/H/">Забег по стадиону</a> | <a href="/training-5.0/5-1h.cpp">C++</a> <a href="/training-5.0/5-1h.py">Python</a> |
 | 1I | <a href="https://contest.yandex.ru/contest/59539/problems/I/">Расписание</a> | <a href="/training-5.0/5-1i.cpp">C++</a> |
 | 1J | <a href="https://contest.yandex.ru/contest/59539/problems/J/">Форматирование документа</a> | <a href="/training-5.0/5-1j.py">Python</a> |
+
+##Лекция 2: Линейный поиск
+| # | Title | Solution |
+| :--- | :--- | :--- |
+| 1A | <a href="https://contest.yandex.ru/contest/59540/problems/A/">Минимальный прямоугольник</a> | <a href="/training-5.0/5-2a.py">Python</a> |
