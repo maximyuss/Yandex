@@ -13,10 +13,10 @@
 | 1I | <a href="https://contest.yandex.ru/contest/59539/problems/I/">Расписание</a> | <a href="/training-5.0/5-1i.cpp">C++</a> |
 | 1J | <a href="https://contest.yandex.ru/contest/59539/problems/J/">Форматирование документа</a> | <a href="/training-5.0/5-1j.py">Python</a> |
 
-##Лекция 2: Линейный поиск
+## Лекция 2: Линейный поиск
 | # | Title | Solution |
 | :--- | :--- | :--- |
-| 1A | <a href="https://contest.yandex.ru/contest/59540/problems/A/">Минимальный прямоугольник</a> | <a href="/training-5.0/5-2a.py">Python</a> |
-| 1B | <a href="https://contest.yandex.ru/contest/59540/problems/B/">???</a> | <a href="/training-5.0/5-2a.py">Python</a> |
-| 1C | <a href="https://contest.yandex.ru/contest/59540/problems/C/">Петя, Маша и верёвочки</a> | <a href="/training-5.0/5-2c.py">Python</a> |
-| 1D | <a href="https://contest.yandex.ru/contest/59540/problems/D/">Шахматная доска</a> | <a href="/training-5.0/5-2d.py">Python</a> |
+| 2A | <a href="https://contest.yandex.ru/contest/59540/problems/A/">Минимальный прямоугольник</a> | <a href="/training-5.0/5-2a.py">Python</a> |
+| 2B | <a href="https://contest.yandex.ru/contest/59540/problems/B/">???</a> | <a href="/training-5.0/5-2a.py">Python</a> |
+| 2C | <a href="https://contest.yandex.ru/contest/59540/problems/C/">Петя, Маша и верёвочки</a> | <a href="/training-5.0/5-2c.py">Python</a> |
+| 2D | <a href="https://contest.yandex.ru/contest/59540/problems/D/">Шахматная доска</a> | <a href="/training-5.0/5-2d.py">Python</a> |
