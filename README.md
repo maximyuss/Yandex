@@ -17,5 +17,6 @@
 | # | Title | Solution |
 | :--- | :--- | :--- |
 | 1A | <a href="https://contest.yandex.ru/contest/59540/problems/A/">Минимальный прямоугольник</a> | <a href="/training-5.0/5-2a.py">Python</a> |
-| 1B | <a href="https://contest.yandex.ru/contest/59540/problems/B/">Минимальный прямоугольник</a> | <a href="/training-5.0/5-2a.py">Python</a> |
+| 1B | <a href="https://contest.yandex.ru/contest/59540/problems/B/">???</a> | <a href="/training-5.0/5-2a.py">Python</a> |
 | 1C | <a href="https://contest.yandex.ru/contest/59540/problems/C/">Петя, Маша и верёвочки</a> | <a href="/training-5.0/5-2c.py">Python</a> |
+| 1D | <a href="https://contest.yandex.ru/contest/59540/problems/D/">Шахматная доска</a> | <a href="/training-5.0/5-2d.py">Python</a> |
