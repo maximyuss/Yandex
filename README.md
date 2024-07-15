@@ -23,3 +23,4 @@
 |...|
 | 2H | <a href="https://contest.yandex.ru/contest/59540/problems/H/">Наилучший запрет</a> | <a href="/training-5.0/5-2h.cpp">C++</a> |
 | 2G | <a href="https://contest.yandex.ru/contest/59540/problems/G/">Ни больше ни меньше</a> | <a href="/training-5.0/5-2g.cpp">C++</a> |
+| 2I | <a href="https://contest.yandex.ru/contest/59540/problems/I/">Пираты Баренцева моря</a> | <a href="/training-5.0/5-2i.cpp">C++</a> |
