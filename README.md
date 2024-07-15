@@ -21,4 +21,5 @@
 | 2C | <a href="https://contest.yandex.ru/contest/59540/problems/C/">Петя, Маша и верёвочки</a> | <a href="/training-5.0/5-2c.py">Python</a> |
 | 2D | <a href="https://contest.yandex.ru/contest/59540/problems/D/">Шахматная доска</a> | <a href="/training-5.0/5-2d.py">Python</a> |
 |...|
-| 2H | <a href="https://contest.yandex.ru/contest/59540/problems/H/">Наилучший запрет</a> | <a href="/training-5.0/5-2h.py">C++</a> |
+| 2H | <a href="https://contest.yandex.ru/contest/59540/problems/H/">Наилучший запрет</a> | <a href="/training-5.0/5-2h.cpp">C++</a> |
+| 2G | <a href="https://contest.yandex.ru/contest/59540/problems/G/">Ни больше ни меньше</a> | <a href="/training-5.0/5-2g.cpp">C++</a> |
