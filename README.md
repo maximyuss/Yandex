@@ -31,3 +31,5 @@
 | :--- | :--- | :--- |
 | 3A | <a href="https://contest.yandex.ru/contest/59541/problems/A/">Плейлисты</a> | <a href="/training-5.0/5-3a.cpp">C++</a> <a href="/training-5.0/5-3a.py">Python</a> |
 | 3B | <a href="https://contest.yandex.ru/contest/59541/problems/B/">Анаграмма?</a> | <a href="/training-5.0/5-3b.cpp">C++</a>|
+| 3C | <a href="https://contest.yandex.ru/contest/59541/problems/C/">Удаление чисел</a> | <a href="/training-5.0/5-3c.py">Python</a>|
+| 3D | <a href="https://contest.yandex.ru/contest/59541/problems/D/">Повторяющееся число</a> | <a href="/training-5.0/5-3d.py">Python</a>|
