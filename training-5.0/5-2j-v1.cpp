@@ -1,5 +1,5 @@
 // https://contest.yandex.ru/contest/59540/problems/J
-//Fast, but difficult solution
+//Quick but complicated solution
 #include <iostream>
 #include <string>
 #include <vector>
