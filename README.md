@@ -33,3 +33,5 @@
 | 3B | <a href="https://contest.yandex.ru/contest/59541/problems/B/">Анаграмма?</a> | <a href="/training-5.0/5-3b.cpp">C++</a>|
 | 3C | <a href="https://contest.yandex.ru/contest/59541/problems/C/">Удаление чисел</a> | <a href="/training-5.0/5-3c.py">Python</a>|
 | 3D | <a href="https://contest.yandex.ru/contest/59541/problems/D/">Повторяющееся число</a> | <a href="/training-5.0/5-3d.py">Python</a>|
+| 3E | <a href="https://contest.yandex.ru/contest/59541/problems/E/">Два из трех</a> | <a href="/training-5.0/5-3e.cpp">C++</a> <a href="/training-5.0/5-3e.py">Python</a>|
+| 3F | <a href="https://contest.yandex.ru/contest/59541/problems/F/">Замена слов</a> | <a href="/training-5.0/5-3f.py">Python</a>|
