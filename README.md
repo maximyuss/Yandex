@@ -25,3 +25,8 @@
 | 2G | <a href="https://contest.yandex.ru/contest/59540/problems/G/">Ни больше ни меньше</a> | <a href="/training-5.0/5-2g.cpp">C++</a> |
 | 2I | <a href="https://contest.yandex.ru/contest/59540/problems/I/">Пираты Баренцева моря</a> | <a href="/training-5.0/5-2i.cpp">C++</a> <a href="/training-5.0/5-2i.py">Python</a> |
 | 2J | <a href="https://contest.yandex.ru/contest/59540/problems/J/">Два прямоугольника</a> | <a href="/training-5.0/5-2j-v1.cpp">C++ v1</a> <a href="/training-5.0/5-2j-v2.cpp">C++ v2</a> |
+
+## Лекция 3: Множества и словари
+| # | Title | Solution |
+| :--- | :--- | :--- |
+| 3A | <a href="https://contest.yandex.ru/contest/59541/problems/A/">Плейлисты</a> | <a href="/training-5.0/5-3a.cpp">C++</a> <a href="/training-5.0/5-3a.py">Python</a> |
