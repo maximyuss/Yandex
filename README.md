@@ -30,3 +30,4 @@
 | # | Title | Solution |
 | :--- | :--- | :--- |
 | 3A | <a href="https://contest.yandex.ru/contest/59541/problems/A/">Плейлисты</a> | <a href="/training-5.0/5-3a.cpp">C++</a> <a href="/training-5.0/5-3a.py">Python</a> |
+| 3B | <a href="https://contest.yandex.ru/contest/59541/problems/B/">Анаграмма?</a> | <a href="/training-5.0/5-3b.cpp">C++</a>|
