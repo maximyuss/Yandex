@@ -37,3 +37,5 @@
 | 3F | <a href="https://contest.yandex.ru/contest/59541/problems/F/">Замена слов</a> | <a href="/training-5.0/5-3f.py">Python</a>|
 | 3G | <a href="https://contest.yandex.ru/contest/59541/problems/G/">Построить квадрат</a> | <a href="/training-5.0/5-3g.cpp">C++</a> <a href="/training-5.0/5-3g.py">Python</a>|
 | 3H | <a href="https://contest.yandex.ru/contest/59541/problems/H/">Спички детям не игрушка!</a> | <a href="/training-5.0/5-3h.cpp">C++</a> <a href="/training-5.0/5-3h.py">Python</a>|
+| 3I | <a href="https://contest.yandex.ru/contest/59541/problems/I/">Играйте в футбол!</a> | <a href="/training-5.0/5-3i.cpp">C++</a>|
+| 3J | <a href="https://contest.yandex.ru/contest/59541/problems/J/">P2P обновление</a> | <a href="/training-5.0/5-3j.cpp">C++</a>|
