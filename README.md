@@ -46,4 +46,5 @@
 | 4A | <a href="https://contest.yandex.ru/contest/59542/problems/A/">Быстрый поиск в массиве</a> | <a href="/training-5.0/5-4a.py">Python</a> |
 | 4B | <a href="https://contest.yandex.ru/contest/59542/problems/B/">Одномерный морской бой</a> | <a href="/training-5.0/5-4b.py">Python</a> |
 | 4C | <a href="https://contest.yandex.ru/contest/59542/problems/C/">Саруман</a> | <a href="/training-5.0/5-4c.py">Python</a> |
-
+| 4D | <a href="https://contest.yandex.ru/contest/59542/problems/D/">Рапорт</a> | <a href="/training-5.0/5-4d.cpp">C++</a> |
+| 4E | <a href="https://contest.yandex.ru/contest/59542/problems/E/">Нумерация дробей</a> | <a href="/training-5.0/5-4e.py">Python</a> |
