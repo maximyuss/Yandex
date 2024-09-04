@@ -39,3 +39,11 @@
 | 3H | <a href="https://contest.yandex.ru/contest/59541/problems/H/">Спички детям не игрушка!</a> | <a href="/training-5.0/5-3h.cpp">C++</a> <a href="/training-5.0/5-3h.py">Python</a>|
 | 3I | <a href="https://contest.yandex.ru/contest/59541/problems/I/">Играйте в футбол!</a> | <a href="/training-5.0/5-3i.cpp">C++</a>|
 | 3J | <a href="https://contest.yandex.ru/contest/59541/problems/J/">P2P обновление</a> | <a href="/training-5.0/5-3j.cpp">C++</a>|
+
+## Лекция 4: Бинарный поиск
+| # | Title | Solution |
+| :--- | :--- | :--- |
+| 4A | <a href="https://contest.yandex.ru/contest/59542/problems/A/">Быстрый поиск в массиве</a> | <a href="/training-5.0/5-4a.py">Python</a> |
+| 4B | <a href="https://contest.yandex.ru/contest/59542/problems/B/">Одномерный морской бой</a> | <a href="/training-5.0/5-4b.py">Python</a> |
+| 4C | <a href="https://contest.yandex.ru/contest/59542/problems/C/">Саруман</a> | <a href="/training-5.0/5-4c.py">Python</a> |
+
