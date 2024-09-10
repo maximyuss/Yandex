@@ -48,3 +48,4 @@
 | 4C | <a href="https://contest.yandex.ru/contest/59542/problems/C/">Саруман</a> | <a href="/training-5.0/5-4c.py">Python</a> |
 | 4D | <a href="https://contest.yandex.ru/contest/59542/problems/D/">Рапорт</a> | <a href="/training-5.0/5-4d.cpp">C++</a> |
 | 4E | <a href="https://contest.yandex.ru/contest/59542/problems/E/">Нумерация дробей</a> | <a href="/training-5.0/5-4e.py">Python</a> |
+| 4F | <a href="https://contest.yandex.ru/contest/59542/problems/F/">Велодорожки</a> | <a href="/training-5.0/5-4f.cpp">C++</a> |
