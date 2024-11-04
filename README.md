@@ -49,3 +49,8 @@
 | 4D | <a href="https://contest.yandex.ru/contest/59542/problems/D/">Рапорт</a> | <a href="/training-5.0/5-4d.cpp">C++</a> |
 | 4E | <a href="https://contest.yandex.ru/contest/59542/problems/E/">Нумерация дробей</a> | <a href="/training-5.0/5-4e.py">Python</a> |
 | 4F | <a href="https://contest.yandex.ru/contest/59542/problems/F/">Велодорожки</a> | <a href="/training-5.0/5-4f.cpp">C++</a> |
+
+# Тренировки по алгоритмам 6.0
+| # | Title | Solution |
+| :--- | :--- | :--- |
+| 1C | <a href="https://contest.yandex.ru/contest/66792/problems/C/">Надпись на табло</a> | <a href="/training-6.0/6-1c.py">Python</a> |
