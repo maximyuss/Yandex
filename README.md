@@ -54,3 +54,4 @@
 | # | Title | Solution |
 | :--- | :--- | :--- |
 | 1C | <a href="https://contest.yandex.ru/contest/66792/problems/C/">Надпись на табло</a> | <a href="/training-6.0/6-1c.py">Python</a> |
+| 2F | <a href="https://contest.yandex.ru/contest/66793/problems/F/">Сумма тройных произведений</a> | <a href="/training-6.0/6-2f.py">Python</a> |
