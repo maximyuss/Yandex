@@ -51,7 +51,11 @@
 | 4F | <a href="https://contest.yandex.ru/contest/59542/problems/F/">Велодорожки</a> | <a href="/training-5.0/5-4f.cpp">C++</a> |
 
 # Тренировки по алгоритмам 6.0
-| # | Title | Solution |
-| :--- | :--- | :--- |
-| 1C | <a href="https://contest.yandex.ru/contest/66792/problems/C/">Надпись на табло</a> | <a href="/training-6.0/6-1c.py">Python</a> |
-| 2F | <a href="https://contest.yandex.ru/contest/66793/problems/F/">Сумма тройных произведений</a> | <a href="/training-6.0/6-2f.py">Python</a> |
+| # | Title | Solution | Topic |
+| :--- | :--- | :--- | :--- |
+| 1C | <a href="https://contest.yandex.ru/contest/66792/problems/C/">Надпись на табло</a> | <a href="/training-6.0/6-1c.py">Python</a> | Тестирование |
+| 2F | <a href="https://contest.yandex.ru/contest/66793/problems/F/">Сумма тройных произведений</a> | <a href="/training-6.0/6-2f.py">Python</a> | Префиксные суммы и два указателя |
+| 2G | <a href="https://contest.yandex.ru/contest/66793/problems/G/">Цензурное произведение</a> | <a href="/training-6.0/6-2g.py">Python</a> | Префиксные суммы и два указателя |
+| 2H | <a href="https://contest.yandex.ru/contest/66793/problems/H/">Переезд в опенспейс</a> | <a href="/training-6.0/6-2h.py">Python</a> | Префиксные суммы и два указателя |
+| 2I | <a href="https://contest.yandex.ru/contest/66793/problems/I/">Изучение алгоритмов</a> |<a href="/training-6.0/6-2i.cpp">C++</a> <a href="/training-6.0/6-2i.py">Python</a> | Префиксные суммы и два указателя |
+| 2J | <a href="https://contest.yandex.ru/contest/66793/problems/J/">Исследование улик</a> |<a href="/training-6.0/6-2j.cpp">C++</a> | Префиксные суммы и два указателя |
