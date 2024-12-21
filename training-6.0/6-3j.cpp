@@ -7,58 +7,43 @@
 using namespace std;
 
 int main() {
+	const size_t maxValue = 1000000001;
 	ifstream cin("input.txt");
-	size_t n, a, b;
-	cin >> n >> a >> b;
-	vector<size_t> order (5);
-	bool isDirect;
-	if (b < a and not (a == 4 and b == 1) or (a == 1 and b == 4))
-		swap(a, b);
-	order[a] = 0; 
-	order[b] = 1;
-	if (b - a == 2) {
-		isDirect = true;
-		order[a % 4 + 1] = 2;
-		order[b % 4 + 1] = 3;
-	}
-	else {
-		isDirect = false;
-		order[b % 4 + 1] = 2;
-		order[(b % 4 + 1) % 4 + 1] = 3;
-	}
-	vector<tuple<size_t, size_t, size_t>> rovers(n);
-	size_t d, t;
-	for (size_t i = 0; i < n; i++) {
-		cin >> d >> t;
-		rovers[i] = { t, order[d], i };
-	}
-	for (size_t i = 0; i < 4; i++)
-		rovers.push_back({ 1000001, i, 1000 });
-	sort(rovers.begin(), rovers.end());
-	size_t cnt = 0, cur_time = get<0>(rovers[0]);
-	vector<size_t> res(n);
-	deque < pair<size_t, size_t>> dq[4];
-	for (auto [t, o, i] : rovers) 
-		dq[o].push_back({ t,i });
-	while (cnt < n) {
-		bool isFree = true, canTry = false;
-		for (size_t j = 0; j < 4; j++) {
-			if (j % 2 == 0)
-				canTry = isFree;
-			else
-				canTry = isDirect or isFree;
-			if (!canTry) break;
-			auto [t, i] = dq[j].front();
-			if (t <= cur_time) {
-				res[i] = cur_time;
-				dq[j].pop_front();
-				cnt++;
-				isFree = false;
-			}
+	size_t n, height;
+	cin >> n >> height;
+	vector<pair<size_t, size_t>> arr(n);
+	for (size_t i = 0; i < n; i++)
+		cin >> arr[i].first; // H
+	for (size_t i = 0; i < n; i++)
+		cin >> arr[i].second; // W
+	arr.push_back({ 10 * maxValue, 0 });
+	sort(arr.begin(), arr.end());
+	deque<pair<size_t, size_t>> dq; // index, discomfort
+	dq.push_back({ 0,0 });
+	size_t l = 0, r = 1, lastHeight = arr[0].first;
+	unsigned long long sumWidth = arr[0].second,discomfort = 0, res = maxValue;
+	while (l < n) {
+		while (r <= n and sumWidth < height) {
+			discomfort = arr[r].first - lastHeight;
+			while (!dq.empty() and dq.back().second <= discomfort)
+				dq.pop_back();
+			sumWidth += arr[r].second;
+			dq.push_back({ r, discomfort });
+			lastHeight = arr[r].first;
+			r++;
 		}
-		cur_time++;
+		auto head = dq.front();
+		discomfort = head.second;
+		if (discomfort < res) {
+			res = discomfort;
+			if (res == 0) break;
+		}
+		sumWidth -= arr[l].second;
+		l++;
+		if (l >= head.first)
+			dq.pop_front();
+
 	}
-	for (auto e : res)
-		cout << e << '\n';
+	cout << res << '\n';
 	return 0;
 }
