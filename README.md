@@ -12,6 +12,9 @@
 | 3H | <a href="https://contest.yandex.ru/contest/66794/problems/H/">Стек с суммой</a> | <a href="/training-6.0/6-3h.py">Python</a> | Стеки, очереди, деки |
 | 3I | <a href="https://contest.yandex.ru/contest/66794/problems/I/">Автоматизированный склад</a> | <a href="/training-6.0/6-3i.cpp">C++</a> <a href="/training-6.0/6-3i.py">Python</a> | Стеки, очереди, деки |
 | 3J | <a href="https://contest.yandex.ru/contest/66794/problems/J/">Кровать из стульев</a> | <a href="/training-6.0/6-3j.cpp">C++</a> <a href="/training-6.0/6-3j.py">Python</a> | Стеки, очереди, деки |
+| 4F | <a href="https://contest.yandex.ru/contest/66795/problems/F/">Бюрократия</a> | <a href="/training-6.0/6-4f.py">Python</a> | Деревья, представления и обходы |
+| 4H | <a href="https://contest.yandex.ru/contest/66795/problems/H/">Вершинно-реберное покрытие дерева</a> | <a href="/training-6.0/6-4h.cpp">C++</a> | Деревья, представления и обходы |
+| 4I | <a href="https://contest.yandex.ru/contest/66795/problems/I/">Пара путей</a> | <a href="/training-6.0/6-4i.py">Python</a> | Деревья, представления и обходы |
 
 # Тренировки по алгоритмам 5.0
 ## Лекция 1: Сложность, тестирование, особые случаи
