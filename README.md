@@ -8,6 +8,8 @@
 | 1I | <a href="https://contest.yandex.ru/contest/74964/problems/I/">Эластичный ровер</a> | <a href="/training-7.0/7-1i.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
 | 1J | <a href="https://contest.yandex.ru/contest/74964/problems/J/">Аскетизм</a> | <a href="/training-7.0/7-1j.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
 | 2E | <a href="https://contest.yandex.ru/contest/74966/problems/E/">K-й ноль</a> | <a href="/training-7.0/7-2e.cpp">C++</a> | Разреженная таблица, дерево отрезков |
+| 2I | <a href="https://contest.yandex.ru/contest/74966/problems/I/">Максимум на подотрезках с добавлением на отрезке</a> | <a href="/training-7.0/7-2i.cpp">C++</a> | Разреженная таблица, дерево отрезков |
+| 2J | <a href="https://contest.yandex.ru/contest/74966/problems/J/">Присваивание на отрезке, сравнение подотрезков</a> | <a href="/training-7.0/7-2j.cpp">C++</a> | Разреженная таблица, дерево отрезков |
 
 # Тренировки по алгоритмам 6.0
 | # | Title | Solution | Topic |
