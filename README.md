@@ -1,12 +1,13 @@
 # Тренировки по алгоритмам 7.0
 | # | Title | Solution | Topic |
 | :--- | :--- | :--- | :--- |
-| 1B | <a href="https://contest.yandex.ru/contest/74964/problems/B/">Ни больше ни меньше</a> | <a href="/training-7.0/7-b.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
-| 1C | <a href="https://contest.yandex.ru/contest/74964/problems/C/">Интернет</a> | <a href="/training-7.0/7-c.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
-| 1G | <a href="https://contest.yandex.ru/contest/74964/problems/G/">Две стены</a> | <a href="/training-7.0/7-g.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
-| 1H | <a href="https://contest.yandex.ru/contest/74964/problems/H/">Распределение задач</a> | <a href="/training-7.0/7-h.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
-| 1I | <a href="https://contest.yandex.ru/contest/74964/problems/I/">Эластичный ровер</a> | <a href="/training-7.0/7-i.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
-| 1J | <a href="https://contest.yandex.ru/contest/74964/problems/J/">Аскетизм</a> | <a href="/training-7.0/7-j.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1B | <a href="https://contest.yandex.ru/contest/74964/problems/B/">Ни больше ни меньше</a> | <a href="/training-7.0/7-1b.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1C | <a href="https://contest.yandex.ru/contest/74964/problems/C/">Интернет</a> | <a href="/training-7.0/7-1c.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1G | <a href="https://contest.yandex.ru/contest/74964/problems/G/">Две стены</a> | <a href="/training-7.0/7-1g.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1H | <a href="https://contest.yandex.ru/contest/74964/problems/H/">Распределение задач</a> | <a href="/training-7.0/7-1h.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1I | <a href="https://contest.yandex.ru/contest/74964/problems/I/">Эластичный ровер</a> | <a href="/training-7.0/7-1i.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 1J | <a href="https://contest.yandex.ru/contest/74964/problems/J/">Аскетизм</a> | <a href="/training-7.0/7-1j.py">Python</a> | Жадный алгоритм и задача о рюкзаке |
+| 2E | <a href="https://contest.yandex.ru/contest/74966/problems/E/">K-й ноль</a> | <a href="/training-7.0/7-2e.cpp">C++</a> | Разреженная таблица, дерево отрезков |
 
 # Тренировки по алгоритмам 6.0
 | # | Title | Solution | Topic |
