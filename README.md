@@ -16,8 +16,8 @@
 | 3G | <a href="https://contest.yandex.ru/contest/74967/problems/G/">Сумма на отрезке</a> | <a href="/training-7.0/7-3g.py">Python</a> | Дерево Фенвика |
 | 3H | <a href="https://contest.yandex.ru/contest/74967/problems/H/">Звезды</a> | <a href="/training-7.0/7-3h.py">Python</a> | Дерево Фенвика |
 | 3I | <a href="https://contest.yandex.ru/contest/74967/problems/I/">Исправление одной ошибки</a> | <a href="/training-7.0/7-3I.py">Python</a> | Исправляющий код Хэмминга |
+| 3J | <a href="https://contest.yandex.ru/contest/74967/problems/J/">Упаковка и распаковка</a> | <a href="/training-7.0/7-3J.py">Python</a> | Сжатие данных |
 
-, сжатие данных
 # Тренировки по алгоритмам 6.0
 | # | Title | Solution | Topic |
 | :--- | :--- | :--- | :--- |
